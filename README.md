@@ -4,9 +4,13 @@
 
 How can I move the legend of the interactive plot down and also display more than a single column? I could not get it to work so far https://github.com/holoviz/holoviews/issues/3780
 
+SF: https://stackoverflow.com/questions/64570973/plot-a-tabular-legend-in-hvplot-holoviews
+
 ## question 2:
 
 How can I choose a single color for the lines (maybe separate them by style per device) but highlight the individual lines / time segments of the lines with a matching ticket in i.e. red.
+
+SF: https://stackoverflow.com/questions/64570973/plot-a-tabular-legend-in-hvplot-holoviews
 
 ## question 3:
 
